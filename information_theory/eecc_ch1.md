@@ -10,3 +10,11 @@ theory:
 (ii) the relationship between information and its source, and
 (iii) the relationship between information and the unreliable
 channel that it is transmitted over.
+
+Claude Shannon provides us with a theorem for channel coding:
+
+> *If the information rate of a given source does not exceed the*
+> *capacity of a given channel, then there exists a coding*
+> *technique that makes possible transmission through this*
+> *unreliable channel with an arbitrarily low error rate*
+
