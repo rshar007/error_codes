@@ -24,3 +24,7 @@ a symbol is unlikely to follow the symbols that came before it, we
 say that the symbol contains more information. Inversely, if we can
 reliably predict the symbol's occurence, we say that the symbol contains
 little information.
+
+Shannon gives us a formula that defines a measure of information:
+
+$I_i \equiv -\log_{b}P_i = \log_{b}\left( \frac{1}{P_i}\right)$
