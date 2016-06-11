@@ -18,3 +18,9 @@ Claude Shannon provides us with a theorem for channel coding:
 > *technique that makes possible transmission through this*
 > *unreliable channel with an arbitrarily low error rate*
 
+# Measuring Information
+In information theory, we measure information using probability. If
+a symbol is unlikely to follow the symbols that came before it, we
+say that the symbol contains more information. Inversely, if we can
+reliably predict the symbol's occurence, we say that the symbol contains
+little information.
